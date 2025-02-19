@@ -12,11 +12,21 @@ h1 {
 nav ul {
     list-style: none; /* Remove bullet points */
     padding: 0;
+    background-color: #CCCCCC;
+    overflow: hidden;
+    width: 700px;
+    margin: auto;
 }
 
 nav li {
     display: inline; /* Make list items horizontal */
     margin-right: 20px;
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
 }
 
 img {
@@ -26,4 +36,4 @@ img {
 small {font-family: sans-serif;
     margin: 0; /* Remove default margins */
     padding: 0;
-    size: 5}
+    font-size: 5}
