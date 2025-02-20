@@ -3,10 +3,12 @@ body {
     font-family: sans-serif;
     margin: 0; /* Remove default margins */
     padding: 0;
+    text-align: center;
 }
 
 h1 {
     color: rgb(57, 0, 228);
+    text-align: center;
 }
 
 nav ul {
@@ -16,6 +18,7 @@ nav ul {
     overflow: hidden;
     width: 700px;
     margin: auto;
+    text-align: center;
 }
 
 nav li {
