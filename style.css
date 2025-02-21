@@ -4,32 +4,36 @@ body {
     margin: 0; /* Remove default margins */
     padding: 0;
     text-align: center;
+    background-color: rgb(20, 20, 20);
+    color: azure
 }
 
 h1 {
-    color: rgb(57, 0, 228);
+    color: rgb(122, 86, 232);
     text-align: center;
 }
 
 nav ul {
     list-style: none; /* Remove bullet points */
     padding: 0;
-    background-color: #CCCCCC;
+    background-color: #ffffffda;
     overflow: hidden;
     width: 700px;
     margin: auto;
-    text-align: center;
+    color: azure;
+    text-align:center;
 }
 
 nav li {
     display: inline; /* Make list items horizontal */
     margin-right: 20px;
     float: left;
-    color: black;
+    color: rgb(26, 26, 26);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 20px;
+    color: azure;
 }
 
 img {
