@@ -8,6 +8,11 @@ body {
     color: azure
 }
 
+p  {
+    padding: 20%;
+    color: azure;
+}
+
 h1 {
     color: rgb(122, 86, 232);
     text-align: center;
